@@ -1,6 +1,6 @@
 # Maplelabs_Internship_Currency_Convertor
 
-To run this application on your local device follow the following steps:
+To run this application on your device follow the following steps:
 1. Clone this repository
 2. Create a virtual environment
 3. Activate the virtual environment
