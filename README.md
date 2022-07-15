@@ -7,4 +7,4 @@ To run this application on your device follow the following steps:
 4. Install all the requirements by typing - $ pip install -r requirements.txt
 5. Apply migrate by typing -  $ python manage.py migrate
 6. Run the project by typing - $ python manage.py runserver
-7. Open http://localhost:8000
+7. Open http://localhost:8000 on your browser.
